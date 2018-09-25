@@ -9,6 +9,7 @@ swagger = Swagger(app)
 
 model = load_model('./model.hdf5')
 
+
 @app.route('/predict_digit', methods=['POST'])
 def predict_digit():
     """API endpoint for returning prediction
