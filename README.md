@@ -1,6 +1,6 @@
 # Image Recognition App using Flask
 
-##Getting Started
+## Getting Started
 
 - `cd` to the project directory
 - Add the model to this directory
